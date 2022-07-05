@@ -1,7 +1,9 @@
 #include "main.h"
 /**
- * a program that prints _putchar, followed by a new line.
- */
+ *  * main-main block
+ *   * Description:print -putchar in a new line
+ *    * Return:this program returns zero
+ *     */
 int main(void)
 {
 	_putchar('_');
