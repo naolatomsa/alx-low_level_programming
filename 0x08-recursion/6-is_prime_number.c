@@ -16,8 +16,11 @@ int prime_a(int a, int b)
 	else if (a == b)
 	{
 		return (1);
-        }
-	return (prime_a(a, b+1));
+	}
+	else
+	{
+		return (prime_a(a, b + 1));
+	}
 }
 
 
