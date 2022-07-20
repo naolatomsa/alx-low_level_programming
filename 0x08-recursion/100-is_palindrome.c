@@ -12,11 +12,7 @@ int long_1(char *s)
 	{
 		return (1 + long_1(s + 1));
 	}
-	else
-	{
-		return (0);
-	}
-
+	return (0);
 }
 /**
  * compare - main - check the code
