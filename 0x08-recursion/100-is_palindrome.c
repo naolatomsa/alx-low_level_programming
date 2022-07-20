@@ -34,10 +34,7 @@ int compare(char *s, int l)
 	{
 		return (compare(s + 1, l - 2));
 	}
-	else
-	{
-		return (0);
-	}
+	return (0);
 }
 
 /**
