@@ -1,2 +1,2 @@
-Naolatomsa 
+Naol atomsa 
 0x09. C - Static libraries
